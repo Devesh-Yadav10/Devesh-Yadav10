@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Devesh-Yadav10
-- 👀 I’m interested in Coding and football
-- 🌱 I’m currently learning web developing
-- 💞️ I’m looking to collaborate in some big communities
-- 📫 How to reach me: Telegram
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I enjoy everything
+Hi, I am Devesh Yadav, a student at Delhi Technological University with keen interest in vibe coding! 
