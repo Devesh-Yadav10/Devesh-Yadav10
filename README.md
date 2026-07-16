@@ -22,7 +22,7 @@
 - 🧠 Interested in **LLM tooling**, **multi-agent orchestration**, and deploying AI apps on free-tier cloud infra
 - 💻 Working primarily in **Python** and **JavaScript/React**, on Windows + VS Code
 - 🌱 Always exploring new ways to make AI assistants more useful, fast, and cheap to run
-- 📫 Reach me at **YOUR_EMAIL**
+- 📫 Reach me at devesh.extras10@gmail.com
 
 ---
 
