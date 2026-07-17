@@ -61,24 +61,12 @@
     <td width="50%" valign="top">
       <h4>🧳 Multi-Agent Booking Assistant</h4>
       <p>An AI booking assistant built with <strong>LangGraph</strong> and <strong>Gradio</strong>, orchestrating multiple agents to handle conversational trip planning. Deployed on Render.</p>
-      <a href="https://github.com/YOUR_USERNAME/booking-assistant">Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💬 GigaCorp FAQ Assistant (RAG)</h4>
-      <p>A retrieval-augmented chatbot using <strong>LangChain</strong>, <strong>FAISS</strong>, Gemini embeddings, and Groq's Llama 3.3 for fast, grounded FAQ answers.</p>
-      <a href="https://github.com/YOUR_USERNAME/gigacorp-faq-assistant">Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Jarvis — Multimodal AI Agent</h4>
-      <p>A scheduling assistant combining chat, image generation, and text-to-speech in one Gradio UI — powered entirely by free-tier AI APIs (Groq, Hugging Face, edge-tts).</p>
-      <a href="https://github.com/YOUR_USERNAME/jarvis-agent">Repo →</a>
+      <a href="https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent">Repo →</a>
     </td>
     <td width="50%" valign="top">
       <h4>🛒 ShopSphere — Full-Stack E-Commerce App</h4>
       <p>A complete e-commerce platform with a React frontend and Node.js/Express + MongoDB backend, featuring auth, cart, checkout, and an admin dashboard.</p>
-      <a href="https://github.com/YOUR_USERNAME/shopsphere">Repo →</a>
+      <a href="https://github.com/Devesh-Yadav10/e-commerce-website">Repo →</a>
     </td>
   </tr>
 </table>
