@@ -98,50 +98,21 @@
 
 ### 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧭 NAVIGATE 2.0 — AI-Assisted Vehicle Navigation</h4>
-      <p>
-        AI-augmented smartphone dead reckoning system combining
-        <strong>IMU sensing, CNN + GRU models, ES-EKF sensor fusion</strong>,
-        and road constraints for navigation during GNSS outages.
-      </p>
-      <a href="https://github.com/MukulN7/NAVIGATE_2.0">Repo →</a>
-    </td>
+- 🧭 **NAVIGATE 2.0 — AI-Assisted Vehicle Navigation**  
+  AI-augmented smartphone dead reckoning system combining **IMU sensing, CNN+GRU models, ES-EKF sensor fusion**, and road constraints for navigation during GNSS outages.  
+  Repo: https://github.com/MukulN7/NAVIGATE_2.0
 
-    <td width="50%" valign="top">
-      <h4>🤖 Multi-Agent Booking Assistant</h4>
-      <p>
-        AI booking assistant built with <strong>LangGraph</strong> and
-        <strong>Gradio</strong>, orchestrating multiple agents for
-        conversational trip planning and task execution.
-      </p>
-      <a href="https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent">Repo →</a>
-    </td>
-  </tr>
+- 🤖 **Multi-Agent Booking Assistant**  
+  AI booking assistant built with **LangGraph** and **Gradio**, orchestrating multiple agents for conversational trip planning and execution.  
+  Repo: https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent
 
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛒 ShopSphere — Full-Stack E-Commerce</h4>
-      <p>
-        Full-stack e-commerce platform built with
-        <strong>React, Node.js, Express, and MongoDB</strong>,
-        featuring authentication, cart, checkout, and admin functionality.
-      </p>
-      <a href="https://github.com/Devesh-Yadav10/e-commerce-website">Repo →</a>
-    </td>
+- 🛒 **ShopSphere — Full-Stack E-Commerce**  
+  Full-stack e-commerce platform built with **React, Node.js, Express, and MongoDB**, featuring authentication, cart, checkout, and admin functionality.  
+  Repo: https://github.com/Devesh-Yadav10/e-commerce-website
 
-    <td width="50%" valign="top">
-      <h4>🧠 AI & RAG Applications</h4>
-      <p>
-        Building LLM-powered applications using
-        <strong>RAG, LangChain, LangGraph, LlamaIndex</strong>,
-        open-source models, and agent-based workflows.
-      </p>
-    </td>
-  </tr>
-</table>
+- 🧠 **AI & RAG Applications**  
+  Building LLM-powered applications using **RAG, LangChain, LangGraph, LlamaIndex**, open-source models, and agent-based workflows.  
+  (Add repo/link if you have a specific repo)
 
 ---
 
