@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Devesh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+AI+Agents%2C+RAG+%26+LLM+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Devesh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG"/>
 
 </div>
 
@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://github.com/Devesh-Yadav10">
-    <img src="https://img.shields.io/github/followers/Devesh-Yadav10?label=Follow&style=social">
+    <img src="https://img.shields.io/github/followers/Devesh-Yadav10?label=Follow&style=social" alt="GitHub followers">
   </a>
   <a href="https://www.linkedin.com/in/devesh-yadav-a51b82290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:devesh.extras10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -25,13 +25,13 @@
 
 ### 🚀 About Me
 
-- 🔭 Building **AI agents, RAG systems, and LLM-powered applications**
-- 🧠 Interested in **multi-agent orchestration, LLM tooling, intelligent automation, and on-device AI**
-- 🤖 Working with **LangChain, LangGraph, LlamaIndex, Hugging Face, PyTorch, and ONNX**
-- 📱 Exploring **Android development with Kotlin** and deploying ML models on mobile devices
-- 🧭 Built AI-assisted navigation systems using **IMU/GNSS sensor fusion and ES-EKF**
-- 💻 Working primarily with **Python, JavaScript/React, and Kotlin**
-- 📫 Reach me at **devesh.extras10@gmail.com**
+- 🔭 I build **AI agents, RAG systems, and LLM-powered applications**.
+- 🧠 Interested in **multi-agent orchestration, LLM tooling, intelligent automation, and on-device AI**.
+- 🤖 Experienced with **LangChain, LangGraph, LlamaIndex, Hugging Face, PyTorch, and ONNX**.
+- 📱 Exploring **Android development with Kotlin** and deploying ML models on mobile devices.
+- 🧭 Built AI-assisted navigation systems using **IMU/GNSS sensor fusion and ES-EKF**.
+- 💻 I work primarily with **Python, JavaScript/React, and Kotlin**.
+- 📫 Reach me at **devesh.extras10@gmail.com**.
 
 ---
 
@@ -94,70 +94,51 @@
 
 `Linear Algebra` · `Kinematics` · `Numerical Integration` · `Coordinate Transformations` · `Quaternion Algebra` · `Sensor Fusion` · `State Estimation` · `ES-EKF` · `Inertial Navigation`
 
+---
+
 ### 🌟 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" align="left">
-
+    <td width="50%" valign="top">
       <h4>🧭 NAVIGATE 2.0 — AI-Assisted Vehicle Navigation</h4>
-
       <p>
-        AI-augmented smartphone navigation system combining
+        AI-augmented smartphone dead reckoning system combining
         <strong>IMU sensing, CNN + GRU models, ES-EKF sensor fusion</strong>,
         and road constraints for navigation during GNSS outages.
       </p>
-
-      <a href="https://github.com/MukulN7/NAVIGATE_2.0">
-        <strong>View Repository →</strong>
-      </a>
-
+      <a href="https://github.com/MukulN7/NAVIGATE_2.0">Repo →</a>
     </td>
 
-    <td width="50%" align="left">
-
+    <td width="50%" valign="top">
       <h4>🤖 Multi-Agent Booking Assistant</h4>
-
       <p>
         AI booking assistant built with <strong>LangGraph</strong> and
-        <strong>Gradio</strong>, using multiple agents for
+        <strong>Gradio</strong>, orchestrating multiple agents for
         conversational trip planning and task execution.
       </p>
-
-      <a href="https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent">
-        <strong>View Repository →</strong>
-      </a>
-
+      <a href="https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent">Repo →</a>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" align="left">
-
+    <td width="50%" valign="top">
       <h4>🛒 ShopSphere — Full-Stack E-Commerce</h4>
-
       <p>
         Full-stack e-commerce platform built with
         <strong>React, Node.js, Express, and MongoDB</strong>,
         featuring authentication, cart, checkout, and admin functionality.
       </p>
-
-      <a href="https://github.com/Devesh-Yadav10/e-commerce-website">
-        <strong>View Repository →</strong>
-      </a>
-
+      <a href="https://github.com/Devesh-Yadav10/e-commerce-website">Repo →</a>
     </td>
 
-    <td width="50%" align="left">
-
+    <td width="50%" valign="top">
       <h4>🧠 AI & RAG Applications</h4>
-
       <p>
         Building LLM-powered applications using
         <strong>RAG, LangChain, LangGraph, LlamaIndex</strong>,
         open-source models, and agent-based workflows.
       </p>
-
     </td>
   </tr>
 </table>
@@ -168,15 +149,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&hide_border=true" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-Yadav10&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-Yadav10&hide_border=true" alt="Streak stats" />
 
 </div>
 
