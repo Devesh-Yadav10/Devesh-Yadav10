@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Devesh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Devesh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Dev;Building+AI+Agents+%26+RAG+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -118,17 +118,24 @@
 
 ### 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&hide_border=true" alt="Top languages" />
+      </div>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&hide_border=true" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-Yadav10&hide_border=true" alt="Streak stats" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-Yadav10&hide_border=true" alt="Streak stats" />
 
 </div>
 
