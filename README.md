@@ -1,28 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Devesh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+with+LangGraph%2C+RAG+%26+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Devesh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+AI+Agents%2C+RAG+%26+LLM+Applications" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  I build AI-powered agents, RAG pipelines, and full-stack applications — from multimodal assistants to production-ready web apps.
+  I build AI-powered agents, RAG pipelines, intelligent applications, and full-stack systems — 
+  from LLM-based assistants to on-device AI and navigation systems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Devesh-Yadav10"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/devesh-yadav-a51b82290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:devesh.extras10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Devesh-Yadav10">
+    <img src="https://img.shields.io/github/followers/Devesh-Yadav10?label=Follow&style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/devesh-yadav-a51b82290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:devesh.extras10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **AI agents & RAG systems** using LangChain, LangGraph, and open-source LLMs
-- 🧠 Interested in **LLM tooling**, **multi-agent orchestration**, and deploying AI apps on free-tier cloud infra
-- 💻 Working primarily in **Python** and **JavaScript/React**, on Windows + VS Code
-- 🌱 Always exploring new ways to make AI assistants more useful, fast, and cheap to run
-- 📫 Reach me at devesh.extras10@gmail.com
+- 🔭 Building **AI agents, RAG systems, and LLM-powered applications**
+- 🧠 Interested in **multi-agent orchestration, LLM tooling, intelligent automation, and on-device AI**
+- 🤖 Working with **LangChain, LangGraph, LlamaIndex, Hugging Face, PyTorch, and ONNX**
+- 📱 Exploring **Android development with Kotlin** and deploying ML models on mobile devices
+- 🧭 Built AI-assisted navigation systems using **IMU/GNSS sensor fusion and ES-EKF**
+- 💻 Working primarily with **Python, JavaScript/React, and Kotlin**
+- 📫 Reach me at **devesh.extras10@gmail.com**
 
 ---
 
@@ -31,26 +40,58 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / ML**
+**AI / ML & GenAI**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C47FF?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+
+**LLM & AI Platforms**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 **Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Databases & Infra**
+**Android Development**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+**Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Engineering & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Mathematics & Engineering**
+
+`Linear Algebra` · `Kinematics` · `Numerical Integration` · `Coordinate Transformations` · `Quaternion Algebra` · `Sensor Fusion` · `State Estimation` · `ES-EKF` · `Inertial Navigation`
 
 ---
 
@@ -59,14 +100,44 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧳 Multi-Agent Booking Assistant</h4>
-      <p>An AI booking assistant built with <strong>LangGraph</strong> and <strong>Gradio</strong>, orchestrating multiple agents to handle conversational trip planning. Deployed on Render.</p>
+      <h4>🧭 NAVIGATE 2.0 — AI-Assisted Vehicle Navigation</h4>
+      <p>
+        AI-augmented smartphone dead reckoning system combining 
+        <strong>IMU sensing, CNN + GRU models, ES-EKF sensor fusion,</strong>
+        and road constraints for navigation during GNSS outages.
+      </p>
+      <a href="https://github.com/MukulN7/NAVIGATE_2.0">Repo →</a>
+    </td>
+
+    <td width="50%" valign="top">
+      <h4>🤖 Multi-Agent Booking Assistant</h4>
+      <p>
+        AI booking assistant built with <strong>LangGraph</strong> and 
+        <strong>Gradio</strong>, orchestrating multiple agents for 
+        conversational trip planning and task execution.
+      </p>
       <a href="https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent">Repo →</a>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
-      <h4>🛒 ShopSphere — Full-Stack E-Commerce App</h4>
-      <p>A complete e-commerce platform with a React frontend and Node.js/Express + MongoDB backend, featuring auth, cart, checkout, and an admin dashboard.</p>
+      <h4>🛒 ShopSphere — Full-Stack E-Commerce</h4>
+      <p>
+        Full-stack e-commerce platform built with 
+        <strong>React, Node.js, Express, and MongoDB</strong>,
+        featuring authentication, cart, checkout, and admin functionality.
+      </p>
       <a href="https://github.com/Devesh-Yadav10/e-commerce-website">Repo →</a>
+    </td>
+
+    <td width="50%" valign="top">
+      <h4>🧠 AI & RAG Applications</h4>
+      <p>
+        Building LLM-powered applications using 
+        <strong>RAG, LangChain, LangGraph, LlamaIndex,</strong>
+        open-source models, and agent-based workflows.
+      </p>
     </td>
   </tr>
 </table>
@@ -76,16 +147,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-Yadav10&hide_border=true" />
+
 </div>
 
 ---
 
 <p align="center">
-  <i>💡 Open to collaborating on AI agent projects, RAG systems, and full-stack builds.</i>
+  <i>💡 Open to collaborating on AI agents, RAG systems, intelligent applications, and full-stack projects.</i>
 </p>
