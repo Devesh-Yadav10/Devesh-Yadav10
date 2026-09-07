@@ -118,18 +118,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <img alt="GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&count_private=true&cache_seconds=1800" />
-  <img alt="Top languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-  <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=Devesh-Yadav10" />
-
-</div>
+**Visit my GitHub profile to view detailed stats:**
+- [GitHub Profile](https://github.com/Devesh-Yadav10)
+- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&count_private=true)
+- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact)
+- [Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devesh-Yadav10)
 
 ---
 
