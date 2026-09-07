@@ -118,24 +118,16 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&hide_border=true" alt="Top languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img alt="GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Devesh-Yadav10&show_icons=true&theme=default&count_private=true&cache_seconds=1800" />
+  <img alt="Top languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-Yadav10&layout=compact&cache_seconds=1800" />
+
+</div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh-Yadav10&hide_border=true" alt="Streak stats" />
+  <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=Devesh-Yadav10" />
 
 </div>
 
