@@ -94,51 +94,70 @@
 
 `Linear Algebra` · `Kinematics` · `Numerical Integration` · `Coordinate Transformations` · `Quaternion Algebra` · `Sensor Fusion` · `State Estimation` · `ES-EKF` · `Inertial Navigation`
 
----
-
 ### 🌟 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="left">
+
       <h4>🧭 NAVIGATE 2.0 — AI-Assisted Vehicle Navigation</h4>
+
       <p>
-        AI-augmented smartphone dead reckoning system combining
+        AI-augmented smartphone navigation system combining
         <strong>IMU sensing, CNN + GRU models, ES-EKF sensor fusion</strong>,
         and road constraints for navigation during GNSS outages.
       </p>
-      <a href="https://github.com/MukulN7/NAVIGATE_2.0">Repo →</a>
+
+      <a href="https://github.com/MukulN7/NAVIGATE_2.0">
+        <strong>View Repository →</strong>
+      </a>
+
     </td>
 
-    <td width="50%" valign="top">
+    <td width="50%" align="left">
+
       <h4>🤖 Multi-Agent Booking Assistant</h4>
+
       <p>
         AI booking assistant built with <strong>LangGraph</strong> and
-        <strong>Gradio</strong>, orchestrating multiple agents for
+        <strong>Gradio</strong>, using multiple agents for
         conversational trip planning and task execution.
       </p>
-      <a href="https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent">Repo →</a>
+
+      <a href="https://github.com/Devesh-Yadav10/Booking-specialist-triage-agent">
+        <strong>View Repository →</strong>
+      </a>
+
     </td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="left">
+
       <h4>🛒 ShopSphere — Full-Stack E-Commerce</h4>
+
       <p>
         Full-stack e-commerce platform built with
         <strong>React, Node.js, Express, and MongoDB</strong>,
         featuring authentication, cart, checkout, and admin functionality.
       </p>
-      <a href="https://github.com/Devesh-Yadav10/e-commerce-website">Repo →</a>
+
+      <a href="https://github.com/Devesh-Yadav10/e-commerce-website">
+        <strong>View Repository →</strong>
+      </a>
+
     </td>
 
-    <td width="50%" valign="top">
+    <td width="50%" align="left">
+
       <h4>🧠 AI & RAG Applications</h4>
+
       <p>
         Building LLM-powered applications using
         <strong>RAG, LangChain, LangGraph, LlamaIndex</strong>,
         open-source models, and agent-based workflows.
       </p>
+
     </td>
   </tr>
 </table>
